@@ -2,7 +2,10 @@
 An aesthetically pleasing and minimal, straight-to-the-point note taking apps for creative people to jot down their ideas quickly and follow it up, set tags and categories so that you will never miss on your ideas. 
 
 # Quick Capture 
-Jot down you ideas using Text, Image, Code, Diagrams, Audio Recordings, Audio Transcriptions, 
+Jot down you ideas using Text, Image, Code, Diagrams, Audio Recordings, Audio Transcriptions.
+
+# God tier contextual search bar 
+search your ideas based off not only its title or keyword but also its context ! 
 
 # Organize Ideas
 Organise your ideas Folder-wise, Tag-wise, Data-wise. 
