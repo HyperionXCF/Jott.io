@@ -8,7 +8,7 @@ Jot down you ideas using Text, Image, Websites, Screenshots, Code, Diagrams, Aud
 search your ideas based off not only its title or keyword but also its context ! 
 
 # Organize Ideas
-Organise your ideas Folder-wise, Tag-wise, Data-wise. 
+Organise your ideas Folder-wise, Tag-wise, Date-wise. 
 
 # Secure and Private 
 All your ideas are stored on your device, So tinker worry free ! 
